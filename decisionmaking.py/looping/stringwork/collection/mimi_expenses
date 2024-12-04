@@ -1,0 +1,9 @@
+avg_expenses=11000
+
+for exp in expenses:
+
+    if exp%avg_exp:
+
+        avg_exp=exp
+
+print(avg_exp)
